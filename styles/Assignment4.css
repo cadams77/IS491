@@ -6,8 +6,8 @@ h2 {font-family: sans-serif; text-align: center; }
 
 #cheese {padding: 5px; height: 25%; width: 25%; border: double;}
 
-section.section1 {background-color: gray; visibility: hidden; position: absolute; width: 1000px; height: 1200px}
+section.section1 {background-color: gray; visibility: hidden; position: absolute; width: 200px; height: 1200px}
 
-section.section2 {background-color: black; color: #808080; visibility: hidden; position: absolute; width: 1000px; height: 1200px}
+section.section2 {background-color: black; color: #808080; visibility: hidden; position: absolute; width: 200px; height: 1200px}
 
-footer {text-align: center; font-style: italic; background-color: gray; position: relative; top: 1200px; vertical-align: bottom; width: 1000px}
+footer {text-align: center; font-style: italic; background-color: gray; position: relative; top: 1200px; vertical-align: bottom; width: 200px}
